@@ -1,2 +1,2 @@
-# Brief Report on the SNES Datapath Architecture
-The report aims to detail the methods and techniques (specifically those present in the WDC 65c816 CPU) necessary for the functioning of the Super Nintendo Entertainment System (SNES), covering the instruction set and format, as well as the set of registers and their addressing modes. Additionally, it provides a simplified datapath for a better understanding of its architecture.
+# Relatório Breve sobre a Arquitetura do Datapath do SNES
+O relatório tem como objetivo detalhar os métodos e técnicas (em específico os presentes na cpu (WDC 65c816)) necessárias para o funcionamento do Super Nintendo Entertainment System (SNES), abrangendo então, o conjunto e formato de instruções, assim como o conjunto de registradores e seu modo de endereçamento, dispondo ainda um datapath simplificado para melhor compreensão da sua arquitetura.
